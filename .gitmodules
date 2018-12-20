@@ -1,3 +1,6 @@
 [submodule "sls-add"]
 	path = sls-add
 	url = https://github.com/A1c0/sls-add.git
+[submodule "sls-sub"]
+	path = sls-sub
+	url = https://github.com/A1c0/sls-sub.git
